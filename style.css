@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  margin-bottom: 0.5rem;
+  padding: 0.25rem;
+}
+
+p {
+  font-weight: bolder;
+  line-height: 150%;
+}
